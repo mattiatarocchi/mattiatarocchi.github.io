@@ -7,4 +7,4 @@
 
 
 
- > *The oldest of us* is an RPG game where the player, who plays some elders must escape from a nursing home.
+ > **_The oldest of us_** is an RPG game where the player, who plays some elders must escape from a nursing home.
