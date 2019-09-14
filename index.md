@@ -13,3 +13,13 @@
 <h5>objective:</h5>
 
 *  Finish the level without getting caught by the staff during the various fights.
+
+<h5>conflict:</h5>
+
+*  The combat with the various enemies,their different abilities and the end-game boss.
+
+<h5>rules:</h5>
+
+*  Turn-based combat and movement.
+
+
