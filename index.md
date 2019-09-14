@@ -50,26 +50,26 @@
 
 <p align="center">
    
-  <h1>The oldest of us</h1> <p align="center">
+     <h1>Paint it!</h1> <p align="center">
 <p align="center">
   
 
-<img src="https://i.imgur.com/lvWKNlM.png" alt="drawing" width="450" height="450"/>
+<img src="https://i.imgur.com/Gn7rDAn.png" alt="drawing" width="450" height="450"/>
 
 
 
- > **_The oldest of us_** is an RPG game where the player, who plays some elders must escape from a nursing home avoiding getting caught by the various staff.
+ > **_Paint it!_** is an arcade game in which the player must color, thanks to the movement, a certain percentage of the map of the levels trying to avoid the various enemies that follow him.
  
 <h5>Objective:</h5>
 
-*  Finish the level without getting caught by the staff during the various fights.
+*  Color a certain percentage of the level.
 
 <h5>Conflict:</h5>
 
-*  The combat with the various enemies,their different abilities and the end-game boss.
+*  The enemys that follow the player and the conformation of the levels that can trap the player.
 
 <h5>Rules:</h5>
 
-*  Turn-based combat and movement.
+*  Movement and the mechanics of creation of walls to block enemies.
 
 
