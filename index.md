@@ -23,6 +23,8 @@
 *  Dash and movement.
 
 
+
+
 <p align="center">
    
 <h1>The oldest of us</h1> <p align="center">
@@ -46,6 +48,8 @@
 <h5>Rules:</h5>
 
 *  Turn-based combat and movement.
+
+
 
 
 <p align="center">
@@ -75,3 +79,52 @@
 *  Movement and the mechanics of creation of walls to block enemies.
 
 
+
+ <h1>Mirror worlds</h1>
+   
+<p align="center">
+  
+
+<img src="https://i.imgur.com/D4g2WcS.png" alt="drawing" width="450" height="450"/>
+
+
+
+ > **_Mirror worlds_** is a puzzle game where the player must direct a ray of light towards a specific point using mirrors.
+ 
+<h5>Objective:</h5>
+
+*  Reach the end of the level.
+
+<h5>Conflict:</h5>
+
+*  The structure of the levels and the presence of some objects that diversify the game.
+
+<h5>Rules:</h5>
+
+*  Movement,jump and the mechanics of mirror rotation.
+
+
+
+
+ <h1>Sumo in the space</h1>
+   
+<p align="center">
+  
+
+<img src="https://i.imgur.com/hfJdH8q.gif" alt="drawing" width="450" height="450"/>
+
+
+
+ > **_Sumo in the space_** is a competitive game where two players must push the opponent out of the arena they are in using a dash.
+ 
+<h5>Objective:</h5>
+
+*  Remain the only player in the arena.
+
+<h5>Conflict:</h5>
+
+*  The other player and the sliding of the players due to the reduced gravity.
+
+<h5>Rules:</h5>
+
+*  Movement and dash.
