@@ -1,6 +1,6 @@
 
 <p align="center">
-** _The oldest of us_**
+_The oldest of us_
 <p align="center">
 
 
