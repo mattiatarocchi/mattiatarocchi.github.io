@@ -1,6 +1,7 @@
 
 <p align="center">
-_The oldest of us_
+Combined emphasis with **asterisks and _underscores_**.
+
 <p align="center">
 
 
