@@ -85,7 +85,7 @@
 <p align="center">
   
 
-<img src="https://i.imgur.com/D4g2WcS.png" alt="drawing" width="450" height="450"/>
+<img src="https://i.imgur.com/D4g2WcS.png" alt="drawing" width="600" height="450"/>
 
 
 
@@ -111,7 +111,7 @@
 <p align="center">
   
 
-<img src="https://i.imgur.com/hfJdH8q.gif" alt="drawing" width="450" height="450"/>
+<img src="https://i.imgur.com/hfJdH8q.gif" alt="drawing" width="600" height="450"/>
 
 
 
