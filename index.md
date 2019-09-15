@@ -1,3 +1,22 @@
+
+Hi my name is mattia Tarocchi and i'm a junior game designer from Prato (Italy).I studied in Florence and these are some of my school Project made from 2016 to 2019:
+
+contact:
+
+[Github](https://github.com/mattiatarocchi)
+
+[linkedin](https://www.linkedin.com/in/mattia-tarocchi-a3398b186/)
+
+[Mail](taro96casale@hotmail.it)
+
+-----------------------------------
+
+
+
+
+
+
+
 <p align="center">
    
   <h1>UNUM</h1> <p align="center">
@@ -136,7 +155,7 @@
 <p align="center">
   
 
-<img src=<a href="https://imgur.com/ZzxRIxP"><img src="https://i.imgur.com/ZzxRIxP.png" title="source: imgur.com" /></a>" 
+<a href="https://imgur.com/ZzxRIxP"><img src="https://i.imgur.com/ZzxRIxP.png" title="source: imgur.com" /></a>" 
                                                                                 
 
 
@@ -162,7 +181,7 @@
 <p align="center">
   
 
-<img src=<a href="https://imgur.com/goGwZSr"><img src="https://i.imgur.com/goGwZSr.png" title="source: imgur.com" /></a>" 
+<a href="https://imgur.com/goGwZSr"><img src="https://i.imgur.com/goGwZSr.png" title="source: imgur.com" /></a>" 
 
 
  > **_Reach the circle_** is a casual game where the player must launch a ball in a circle avoiding the varius obstacle.
@@ -186,7 +205,7 @@
 <p align="center">
   
 
-<img src=<a href="https://imgur.com/0JsfMVH"><img src="https://i.imgur.com/0JsfMVH.png" title="source: imgur.com" /></a>"  
+<a href="https://imgur.com/0JsfMVH"><img src="https://i.imgur.com/0JsfMVH.png" title="source: imgur.com" /></a>"  
 
 
 
