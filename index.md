@@ -136,7 +136,8 @@
 <p align="center">
   
 
-<img src=https://i.imgur.com/ZzxRIxP.png" alt="drawing" width="600" height="450"/>
+<img src=<a href="https://imgur.com/ZzxRIxP"><img src="https://i.imgur.com/ZzxRIxP.png" title="source: imgur.com" /></a>" 
+                                                                                
 
 
 
@@ -161,8 +162,7 @@
 <p align="center">
   
 
-<img src=https://i.imgur.com/goGwZSr.png" alt="drawing" width="600" height="450"/>
-
+<img src=<a href="https://imgur.com/goGwZSr"><img src="https://i.imgur.com/goGwZSr.png" title="source: imgur.com" /></a>" 
 
 
  > **_Reach the circle_** is a casual game where the player must launch a ball in a circle avoiding the varius obstacle.
@@ -186,7 +186,8 @@
 <p align="center">
   
 
-<img src=https://i.imgur.com/0JsfMVH.png" alt="drawing" width="600" height="450"/>
+<img src=<a href="https://imgur.com/0JsfMVH"><img src="https://i.imgur.com/0JsfMVH.png" title="source: imgur.com" /></a>"  
+
 
 
 
