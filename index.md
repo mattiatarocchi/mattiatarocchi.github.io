@@ -18,7 +18,7 @@
 
 *  The only use of the dash to defeat the various bosses and the death of the player in a single enemy attack.
 
-<h5>Rules:</h5>
+<h5>Mechanics:</h5>
 
 *  Dash and movement.
 
@@ -45,7 +45,7 @@
 
 *  The combat with the various enemies,their different abilities and the end-game boss.
 
-<h5>Rules:</h5>
+<h5>Mechanics:</h5>
 
 *  Turn-based combat and movement.
 
@@ -74,7 +74,7 @@
 
 *  The enemys that follow the player and the conformation of the levels that can trap the player.
 
-<h5>Rules:</h5>
+<h5>Mechanics:</h5>
 
 *  Movement and the mechanics of creation of walls to block enemies.
 
@@ -99,7 +99,7 @@
 
 *  The structure of the levels and the presence of some objects that diversify the game.
 
-<h5>Rules:</h5>
+<h5>Mechanics:</h5>
 
 *  Movement,jump and the mechanics of mirror rotation.
 
@@ -125,6 +125,83 @@
 
 *  The other player and the sliding of the players due to the reduced gravity.
 
-<h5>Rules:</h5>
+<h5>Mechanics:</h5>
 
 *  Movement and dash.
+
+
+
+ <h1>Reverse</h1>
+   
+<p align="center">
+  
+
+<img src=https://i.imgur.com/ZzxRIxP.png" alt="drawing" width="600" height="450"/>
+
+
+
+ > **_Reverse_** is an Arcade game where the players must go against a bullet of a certain color to defeat certain enemies scattered around the level, enemies are of various colors as well as bullets.
+
+ 
+<h5>Objective:</h5>
+
+*  Destroy every enemy in the level.
+
+<h5>Conflict:</h5>
+
+*  The different tipe of enemys and the conformation os thevarius level.
+
+<h5>Mechanics:</h5>
+
+*  Movement.
+
+
+ <h1>Reach the circle</h1>
+   
+<p align="center">
+  
+
+<img src=https://i.imgur.com/goGwZSr.png" alt="drawing" width="600" height="450"/>
+
+
+
+ > **_Reach the circle_** is a casual game where the player must launch a ball in a circle avoiding the varius obstacle.
+ 
+<h5>Objective:</h5>
+
+*  Throw the ball in the circle.
+
+<h5>Conflict:</h5>
+
+*  The varius level conformation.
+
+<h5>Mechanics:</h5>
+
+*  pressing the mouse button.
+
+
+
+ <h1>It's all relative</h1>
+   
+<p align="center">
+  
+
+<img src=https://i.imgur.com/0JsfMVH.png" alt="drawing" width="600" height="450"/>
+
+
+
+ > **_It's all relative_** is a narrative game where the player plays an elder who retraces his memories in his home. 
+ 
+<h5>Objective:</h5>
+
+* follow the story and reach the end of the game.
+
+<h5>Conflict:</h5>
+
+*  The varius puzzles to remember the character's memories.
+
+<h5>Mechanics:</h5>
+
+*  movment and interaction with objects.
+
+
