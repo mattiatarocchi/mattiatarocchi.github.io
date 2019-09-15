@@ -1,11 +1,11 @@
 
-*Hi my name is mattia Tarocchi and i'm a junior game designer from Prato (Italy).I studied in Florence and these are some of my school Project made from 2016 to 2019:*
+**Hi my name is Mattia Tarocchi and i'm a junior game designer from Prato (Italy).I studied in Florence and these are some of my school Project made from 2016 to 2019:**
 
 
    
 <p align="center"> 
    
-_contact_:
+**_contact_:**
    
 <p align="center">
    
