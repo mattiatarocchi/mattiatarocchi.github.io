@@ -17,7 +17,7 @@
 
 <p align="center">
    
-[Mail](taro96casale@hotmail.it)
+taro96casale@hotmail.it
 
 
 -----------------------------------
