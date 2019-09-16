@@ -236,3 +236,29 @@
 *  movment and interaction with objects.
 
 
+
+
+
+ <h1>Labo</h1>
+   
+<p align="center">
+  
+
+<img src="https://i.imgur.com/Fi9qjfw.png" width="600" height="450"/>
+
+
+ > **_Labo_** is a narrative FPS game where the player have to escape from a spaceship. 
+ 
+<h5>Objective:</h5>
+
+* follow the story and reach the end of the game.
+
+<h5>Conflict:</h5>
+
+*  The varius enemies that the player found in the game.
+
+<h5>Mechanics:</h5>
+
+*  movment,jump,shoo,drop and interaction with objects.
+
+
